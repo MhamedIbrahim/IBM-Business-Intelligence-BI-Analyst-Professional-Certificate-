@@ -1,6 +1,4 @@
-Business Intelligence learning
-
-This repository documents my learning progress in the Business Intelligence Analyst Professional Certificate program on Coursera.
+**Business Intelligence Analyst Professional Certificate**
 
 ## Completed Courses
 
