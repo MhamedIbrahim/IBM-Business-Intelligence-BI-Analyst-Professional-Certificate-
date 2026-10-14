@@ -22,3 +22,5 @@ This repository documents my learning progress in the Business Intelligence Anal
 - **Full Program:** [[Course Link](https://www.coursera.org/professional-certificates/bi-analyst#courses)]
 - **Program Structure:** 11 courses
 - **Progress:** 3 of 11 courses completed
+
+This repository will be updated as I complete courses and earn certificates.
